@@ -9,7 +9,7 @@ Sprites source: https://www.spriters-resource.com/arcade/bustamovepuzzlebobble/
 Many settings of the game can be changed in `settings.py` (located inside the `utils` folder)
 
 ## Authors
-Pompeu Costa (103294), Márcio Tavares (108096)
+Pompeu Costa, Márcio Tavares
 
 ## Patterns used
 ### Command
